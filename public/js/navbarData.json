@@ -1,0 +1,39 @@
+{
+    "headers": [{
+            "id": 1,
+            "title": "Home",
+            "path": "/",
+            "active": true
+        },
+        {
+            "id": 2,
+            "title": "Work",
+            "path": "/work",
+            "active": false
+        },
+        {
+            "id": 3,
+            "title": "Portfolio",
+            "path": "/portfolio",
+            "active": false
+        },
+        {
+            "id": 4,
+            "title": "Resume",
+            "path": "#",
+            "active": false
+        },
+        {
+            "id": 5,
+            "title": "About",
+            "path": "#",
+            "active": false
+        },
+        {
+            "id": 6,
+            "title": "Contact",
+            "path": "#",
+            "active": false
+        }
+    ]
+}

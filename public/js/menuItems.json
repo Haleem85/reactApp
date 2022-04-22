@@ -1,0 +1,103 @@
+{
+    "logos": [{
+            "id": 1,
+            "appName": "System",
+            "image": "images/user/haleem.png"
+        },
+        {
+            "id": 2,
+            "appName": "Counter",
+            "image": " images/user/avatar_2x.png"
+        },
+        {
+            "id": 3,
+            "appName": "Supplies for Life",
+            "image": " images/SL/SFL.jpg"
+        }
+    ],
+    "images": [{
+            "id": 1,
+            "userId": 2,
+            "image": " images/user/avatar_2x.png"
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "image": "  images/user/avatar_2x.png"
+        }
+    ],
+    "menus": [{
+            "title": "Home",
+            "url": "/home"
+        },
+        {
+            "title": "Tutorials",
+            "submenu": [{
+                    "title": "All Tutorials",
+                    "active": true
+                },
+                {
+                    "title": "Add Tutorial",
+                    "url": "/tutorials/add"
+                },
+                {
+                    "title": "web development",
+                    "url": "/development",
+                    "submenu": [{
+                            "title": "Frontend",
+                            "url": "/Frontend"
+                        },
+                        {
+                            "title": "Backend",
+                            "url": "/Backend",
+                            "submenu": [{
+                                    "title": "NodeJS",
+                                    "url": "/Backend/nodeJS"
+                                },
+                                {
+                                    "title": "PHP",
+                                    "url": "/Backend/php"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "SEO",
+                    "url": "/seo"
+                }
+            ]
+        },
+        {
+            "title": "About",
+            "submenu": [{
+                    "title": "Who we are",
+                    "url": "/info"
+                },
+                {
+                    "title": "Our values",
+                    "url": "/values"
+                }
+            ]
+        },
+        {
+            "title": "Users",
+            "submenu": {
+                "title": "All Users",
+                "url": "/users"
+            }
+        },
+        {
+            "title": "Login",
+            "url": "/login"
+        },
+        {
+            "title": "Logout",
+            "url": "/login"
+        },
+        {
+            "title": "Register",
+            "url": "/register"
+        }
+    ]
+}

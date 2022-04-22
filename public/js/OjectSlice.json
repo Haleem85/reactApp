@@ -1,0 +1,9 @@
+{
+    "Actions": [{
+        "id": 1,
+        "query": [{
+            "first": "name",
+            "second": "email"
+        }]
+    }]
+}

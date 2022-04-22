@@ -1,0 +1,11 @@
+{
+    "menus": [{
+            "title": "Who we are",
+            "url": "/info"
+        },
+        {
+            "title": "Our values",
+            "url": "/values"
+        }
+    ]
+}

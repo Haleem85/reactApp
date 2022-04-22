@@ -1,0 +1,97 @@
+{
+    "works": [{
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Service 1",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Service 2",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Service 3",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+    "portfolio": [{
+            "id": 1,
+            "image": "/images/portfolio-img1.jpg",
+            "title": "All",
+            "active": true,
+            "hoverText": "All"
+        },
+        {
+            "id": 2,
+            "image": "/images/portfolio-img2.jpg",
+            "title": "Product 1",
+            "active": false,
+            "hoverText": "Product 1"
+        },
+        {
+            "id": 3,
+            "image": "/images/portfolio-img3.jpg",
+            "title": "Product 2",
+            "active": false,
+            "hoverText": "Product 2"
+        },
+        {
+            "id": 4,
+            "image": "/images/portfolio-img4.jpg",
+            "title": "Product 3",
+            "active": false,
+            "hoverText": "Product 3"
+        },
+        {
+            "id": 5,
+            "image": "/images/portfolio-img5.jpg",
+            "title": "Product 4",
+            "active": false,
+            "hoverText": "Product 4"
+        },
+        {
+            "id": 6,
+            "image": "/images/portfolio-img6.jpg",
+            "title": "React",
+            "active": false,
+            "hoverText": "React"
+        },
+        {
+            "id": 7,
+            "image": "/images/portfolio-img4.jpg",
+            "title": "Product 5",
+            "active": false,
+            "hoverText": "Product 5"
+        },
+        {
+            "id": 8,
+            "image": "/images/portfolio-img8.jpg",
+            "title": "Product 6",
+            "active": false,
+            "hoverText": "Product 7"
+        }
+    ],
+    "social": [{
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me on",
+            "body": "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-pinterest fa-lg",
+            "title": "Pin Me on",
+            "body": "Social Pinterest"
+        }
+    ]
+}

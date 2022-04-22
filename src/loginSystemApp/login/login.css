@@ -1,0 +1,95 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+.login_container {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Raleway, sans-serif;
+    width: 100%;
+    height: 100vh;
+}
+
+#heading1 {
+    text-align: center;
+    padding: 20px;
+    font-size: 150%;
+    /* background-color: orange; */
+    color: #1083a7;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.myForm {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.icon {
+    padding: 10px;
+    background: darkorange;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid darkcyan;
+}
+
+.input-field:focus {
+    border: 2px solid darkcyan;
+}
+
+.login__btn {
+    background-color: darkorange;
+    color: white;
+    padding: 10px 10px 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.signUp__btn {
+    background-color: darkorange;
+    color: white;
+    padding: 10px 20px 10px;
+    margin-top: 3px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.login__btn:hover {
+    opacity: 1;
+    background-color: darkcyan;
+}
+
+.signUp__btn:hover {
+    opacity: 1;
+    background-color: darkcyan;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+.icon:hover {
+    background-color: darkcyan;
+}

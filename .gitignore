@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/codeBank
+# testing
+/coverage
+
+/stackOverFlow
+
+/.cspell
+
+# production
+# build/
+# .env
+
+# third_app
+#other
+/.oldgit
+# /src
+# /public
+/src/BezCoders
+archive/
+.vscode/
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# For application client.No.1 :
+/.oldgit
+# /src
+# /public
+# .eslintrc
+# .gitignore
+Lessons.md
+# README.md
+# package-lock.json
+# package.json
+third_app.code-workspace 
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
